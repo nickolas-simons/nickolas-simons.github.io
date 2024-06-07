@@ -2,7 +2,7 @@
 layout: post
 title:  "Card Genie"
 summary: "Lead Programmer"
-date:   2022-09-07 15:39:40
+date:   2024-01-01 15:39:40
 preview: /assets/postpreview.png
 ---
 
