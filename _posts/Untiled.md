@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Untiled"
+summary: "Developer"
+date:   2022-09-06 15:39:40
+preview: /assets/postpreview.png
+---
+
+![Picture 1](/assets/fullsize.png)
+
+* Developed system for replicating shared randomly generated environment partitions during runtime. 
+* Implemented adjustable attack tracing component. 
