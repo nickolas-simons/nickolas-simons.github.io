@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Card Genie"
-summary: "Lead Programmer"
+title:  "Master Dancer"
+summary: "Programmer"
 date:   2024-05-01 15:39:40
 preview: /assets/postpreview.png
 ---

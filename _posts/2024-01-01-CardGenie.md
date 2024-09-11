@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Card Genie"
-summary: "Lead Programmer"
+title:  "Void Horizon"
+summary: "Programmer"
 date:   2024-01-01 15:39:40
 preview: /assets/postpreview.png
 ---
