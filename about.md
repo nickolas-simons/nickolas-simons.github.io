@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /about/
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/portrait.JPG)
 
 Hello! I'm Nick, an undergrad student interested in pursuing a career as a software engineer within the games industry. I am most interested in gameplay and tools programming because it allows me to enable designers and artist to create their vision. With 5+ years using Unreal Engine, a background as a programming lead, and strong foundation in C/C++, I can leverage my skills to develop scalable and maintainable systems.
 
