@@ -33,8 +33,11 @@ preview: /assets/JunkDrawer/junkdrawer_preview.png
   Your browser does not support the video tag.
 </video>
 
-![Picture 1](/assets/JunkDrawer/goblin_poly.jpg)
-![Picture 2](/assets/JunkDrawer/goblin.jpg)
-![Picture 3](/assets/JunkDrawer/knightHelm_topo.png)
-![Picture 4](/assets/JunkDrawer/knightHelm.jpg)
-![Picture 5](/assets/JunkDrawer/FencingAnim.PNG)
+
+![Picture 1](/assets/JunkDrawer/mouse.png)
+![Picture 2](/assets/JunkDrawer/mouse3.png)
+![Picture 3](/assets/JunkDrawer/goblin_poly.jpg)
+![Picture 4](/assets/JunkDrawer/goblin.jpg)
+![Picture 5](/assets/JunkDrawer/knightHelm_topo.png)
+![Picture 6](/assets/JunkDrawer/knightHelm.jpg)
+![Picture 7](/assets/JunkDrawer/FencingAnim.PNG)
