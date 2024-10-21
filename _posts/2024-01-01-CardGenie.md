@@ -14,9 +14,8 @@ preview: /assets/postpreview.png
 * Implemented character classes and player traversal
 * Utilized data-driven framework to allow card assets to be generated from design spreadsheets.
 
-![Picture 2](/assets/405_CardSystemDesignLoop.png)
-![Picture 3](/assets/405_CardSystemDesignLoop2.png)
-![Picture 4](/assets/405_CardSystemDesignLoop3.png)
+![Picture 2](/assets/405_Loop.png)
+![Picture 3](/assets/405_CardSystemDesignLoop3.png)
 
 <video width="640" height="360" controls>
   <source src="/assets/405_Demo.mp4" type="video/mp4">
