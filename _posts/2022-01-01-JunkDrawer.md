@@ -9,7 +9,7 @@ preview: /assets/JunkDrawer/junkdrawer_preview.png
 * Random collection of things I've made that are too small to have their own page
 
 <video width="640" height="360" controls>
-  <source src="/assets/JunkDrawer/WeaponPreview.mp4" type="video/mp4">
+  <source src="/assets/JunkDrawer/Weapon_Preview.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -28,8 +28,8 @@ preview: /assets/JunkDrawer/junkdrawer_preview.png
   Your browser does not support the video tag.
 </video>
 
-![Picture 1](/assets/JunkDrawer/goblin_poly.png)
-![Picture 2](/assets/JunkDrawer/goblin.png)
+![Picture 1](/assets/JunkDrawer/goblin_poly.jpg)
+![Picture 2](/assets/JunkDrawer/goblin.jpg)
 ![Picture 3](/assets/JunkDrawer/knightHelm_topo.png)
-![Picture 4](/assets/JunkDrawer/knightHelm.png)
+![Picture 4](/assets/JunkDrawer/knightHelm.jpg)
 ![Picture 5](/assets/JunkDrawer/FencingAnim.png)
