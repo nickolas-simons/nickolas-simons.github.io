@@ -19,7 +19,7 @@ preview: /assets/postpreview.png
 ![Picture 4](/assets/405_CardSystemDesignLoop3.png)
 
 <video width="640" height="360" controls>
-  <source src="405_Demo.mp4" type="video/mp4">
+  <source src="assets/405_Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -31,12 +31,12 @@ preview: /assets/postpreview.png
 * Developed genre based card mechanics, similar to MTG
 
 <video width="640" height="360" controls>
-  <source src="405_Demo3.mp4" type="video/mp4">
+  <source src="assets/405_Demo3.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 <video width="640" height="360" controls>
-  <source src="405_DemoUpdate.mp4" type="video/mp4">
+  <source src="assets/405_DemoUpdate.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
