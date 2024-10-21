@@ -3,7 +3,7 @@ layout: post
 title:  "Void Horizon"
 summary: "Programmer"
 date:   2024-01-01 15:39:40
-preview: /assets/postpreview.png
+preview: /assets/405_preview.png
 ---
 
 ![Picture 1](/assets/405_TitleCard.png)
