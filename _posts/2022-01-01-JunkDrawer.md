@@ -9,6 +9,11 @@ preview: /assets/JunkDrawer/junkdrawer_preview.png
 * Random collection of things I've made that are too small to have their own page
 
 <video width="640" height="360" controls>
+  <source src="/assets/JunkDrawer/final_demo_no_audio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="640" height="360" controls>
   <source src="/assets/JunkDrawer/Weapon_Preview.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

@@ -7,7 +7,8 @@ preview: /assets/405_preview.png
 ---
 
 ![Picture 1](/assets/405_TitleCard.png)
-
+* Card Battler Roguelike, with mechanics influenced by games like Slay the Spire, Magic the Gathering, and Yugio.
+* Developed using both C++/Blueprint.
 * Class project for GSD405, working with a team of 5 to continue development after the end of the semester
 * Team initially consisted of a product manager, designer, 2 artists, and 2 programmers, transitioned to 3 artists, 2 designers, and 1 programmer.
 * Implemented effects-based card combat system and UI
@@ -23,11 +24,11 @@ preview: /assets/405_preview.png
 </video>
 
 
-* After the transition to the new project structure, the new design team expanded the combat system to include equipment driven skills and card genre system and switched the perspective to 2.5D.
+* After the transition to the new project structure, the new design team expanded the combat system to include equipment driven skills, card genre system, and a switch to to 2.5D perspective.
 * Implemented equipment system and UI scripting
 * Modified the player character and combat for 3D perspective changed.
 * Extended the effect system to apply to items and characters
-* Developed genre based card mechanics, similar to MTG
+* Developed genre based card mechanics, similar to land resource system in Magic the Gathering.
 
 <video width="640" height="360" controls>
   <source src="/assets/405_Demo3.mp4" type="video/mp4">
