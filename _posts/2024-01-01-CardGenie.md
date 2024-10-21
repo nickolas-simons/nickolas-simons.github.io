@@ -7,11 +7,13 @@ preview: /assets/405_preview.png
 ---
 
 ![Picture 1](/assets/405_TitleCard.png)
+* Scifi Card Battler Roguelike, with mechanics influenced by games like Slay the Spire, Magic the Gathering, and Yugio.
+
 <video width="640" height="360" controls>
   <source src="/assets/405_Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-* Card Battler Roguelike, with mechanics influenced by games like Slay the Spire, Magic the Gathering, and Yugio.
+
 * Developed using both C++/Blueprint.
 * Class project for GSD405, working with a team of 5 to continue development after the end of the semester
 * Team initially consisted of a product manager, designer, 2 artists, and 2 programmers, transitioned to 3 artists, 2 designers, and 1 programmer.
