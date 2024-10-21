@@ -9,7 +9,7 @@ preview: /assets/postpreview.png
 ![Picture 1](/assets/MD_TitleCard.png)
 
 * In Master Dancer you meet the famous Loïe Fuller, who was the first dancer to use technology in modern dancing, and you become a creative dancer yourself by playing action games to learn her movement principles. Guided by Virtual Loïe, you will learn about her interesting world, and you will make your own brand-new dance with her, using the modern technology of Virtual Reality. You too can become a Master Dancer! 
-* Project developed by stu/dio
+* Project developed by [stu/dio](https://games.illinois.edu/)
 * Developed using both C++/Blueprint.
 * Iteration of a previous project by sponsor with new development team.
 
