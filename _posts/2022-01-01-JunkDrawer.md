@@ -32,4 +32,4 @@ preview: /assets/JunkDrawer/junkdrawer_preview.png
 ![Picture 2](/assets/JunkDrawer/goblin.jpg)
 ![Picture 3](/assets/JunkDrawer/knightHelm_topo.png)
 ![Picture 4](/assets/JunkDrawer/knightHelm.jpg)
-![Picture 5](/assets/JunkDrawer/FencingAnim.png)
+![Picture 5](/assets/JunkDrawer/FencingAnim.PNG)
