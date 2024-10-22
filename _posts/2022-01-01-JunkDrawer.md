@@ -6,7 +6,8 @@ date:   2022-01-01 15:39:40
 preview: /assets/JunkDrawer/junkdrawer_preview.png
 ---
 
-* Random collection of things I've made that are too small to have their own page
+**Overview:**
+A random collection of smaller projects that don't have their own dedicated pages. These range from animations and game prototypes to 3D models and various gameplay systems.
 
 <video width="640" height="360" controls>
   <source src="/assets/JunkDrawer/final_demo_no_audio.mp4" type="video/mp4">
@@ -33,11 +34,12 @@ preview: /assets/JunkDrawer/junkdrawer_preview.png
   Your browser does not support the video tag.
 </video>
 
-
-![Picture 1](/assets/JunkDrawer/mouse.png)
-![Picture 2](/assets/JunkDrawer/mouse3.png)
-![Picture 3](/assets/JunkDrawer/goblin_poly.jpg)
-![Picture 4](/assets/JunkDrawer/goblin.jpg)
-![Picture 5](/assets/JunkDrawer/knightHelm_topo.png)
-![Picture 6](/assets/JunkDrawer/knightHelm.jpg)
-![Picture 7](/assets/JunkDrawer/FencingAnim.PNG)
+**3D Models and Art:**
+![Fencing Animation Preview](/assets/JunkDrawer/FencingAnim.PNG)
+![DnD Preview](/assets/JunkDrawer/DnDPreview.png)
+![Mouse Model 1](/assets/JunkDrawer/mouse.png)
+![Mouse Model 2](/assets/JunkDrawer/mouse3.png)
+![Goblin Model - Low Poly](/assets/JunkDrawer/goblin_poly.jpg)
+![Goblin Model - High Poly](/assets/JunkDrawer/goblin.jpg)
+![Knight Helm - Topology](/assets/JunkDrawer/knightHelm_topo.png)
+![Knight Helm - Final Render](/assets/JunkDrawer/knightHelm.jpg)
