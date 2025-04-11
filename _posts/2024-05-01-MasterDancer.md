@@ -25,13 +25,16 @@ Project operating through stu/dio-a student led work-for-hire game development s
 - **Core Systems Implemented:**
    - **Movement Based Rhythm Games**
       - Developed two data-driven movement-based rhythm minigames.
+
 ![Starmaker Minigame System](/assets/md_gif4.gif)
 ![Rhythm Minigame System](/assets/md_gif.gif)
+
    - **Gen-AI Dialogue System:**  
       - Implemented a Gen-AI framework to create character dialogue and dynamic conversations.
 
 - **Level Streaming:**  
    - Developed a stereoscope-based system for seamless level streaming.
+   
 ![Stereoscope System](/assets/md_gif2.gif)
 
 ![Stereoscope System](/assets/StereoscopeSystem.png)
