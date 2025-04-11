@@ -27,6 +27,7 @@ Project operating through stu/dio-a student led work-for-hire game development s
       - Developed two data-driven movement-based rhythm minigames.
 
 ![Starmaker Minigame System](/assets/md_gif4.gif)
+
 ![Rhythm Minigame System](/assets/md_gif.gif)
 
    - **Gen-AI Dialogue System:**  
@@ -34,10 +35,11 @@ Project operating through stu/dio-a student led work-for-hire game development s
 
 - **Level Streaming:**  
    - Developed a stereoscope-based system for seamless level streaming.
-   
+
 ![Stereoscope System](/assets/md_gif2.gif)
 
 ![Stereoscope System](/assets/StereoscopeSystem.png)
+
 ![Starmaker System](/assets/StarmakerSystem.png)
 
 <video width="640" height="360" controls>
