@@ -16,17 +16,17 @@ Project operating through stu/dio-a student led work-for-hire game development s
 ![Rhythm Minigame System](/assets/md_gif3.gif)
 
 **Development Details:**
-- **Technology:**  
+   - **Engine/Platform:**  
    Unreal Engine 5 for PCVR platforms.
 
-- **Team Structure:**  
-6 Members
-   - 1 Project Manager
-   - 1 Programmer
-   - 1 Designer
-   - 2 Artists
-   - 1 Sound Designer
-   - 1 Music Composer
+   - **Team Structure:**  
+   6 Members
+      - 1 Project Manager
+      - 1 Programmer
+      - 1 Designer
+      - 2 Artists
+      - 1 Sound Designer
+      - 1 Music Composer
 
 **My Work:**
 

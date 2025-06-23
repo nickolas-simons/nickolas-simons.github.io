@@ -12,22 +12,21 @@ preview: /assets/405_preview.png
 A Sci-Fi card battler roguelike with mechanics influenced by Slay the Spire, Magic the Gathering, and Darkest Dungeon. Developed in a team of 6 for GSD405 : Intro To Game Development Process, this project continued after the semester ended, expanding the team and shifting to a strategy game with expanded mechanics and a shift to 3D perspective.
 
 **Development Details:**
-- **Platform/Engine:**  
-   Developed on UE5 for PC.
+   - **Platform/Engine:**  
+      Developed on UE5 for PC.
 
-- **Team Structure:**
-
-   - During Course
-      - 1 Project Manager
-      - 2 Programmers
-      - 2 Artists
-      - 1 Designers
-   
-   - After Course
-      - 1 Project Manager
-      - 1 Programmer
-      - 3 Artists
-      - 2 Designers
+   - **Team Structure:**
+      - During Course
+         - 1 Project Manager
+         - 2 Programmers
+         - 2 Artists
+         - 1 Designers
+      
+      - After Course
+         - 1 Project Manager
+         - 1 Programmer
+         - 3 Artists
+         - 2 Designers
 
 - **My Work:**
   - Implemented lightweight effect-based card and item combat system inspired by Epic's Gameplay Ability System.

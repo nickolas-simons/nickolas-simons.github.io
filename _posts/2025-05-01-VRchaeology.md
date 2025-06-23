@@ -15,17 +15,17 @@ Project operating through stu/dio-a student led work-for-hire game development s
 
 
 **Development Details:**
-- **Platform and Engine:**  
-   Unreal Engine 5 for PCVR platforms
+   - **Platform and Engine:**  
+      Unreal Engine 5 for PCVR platforms
 
-- **Team Structure:**  
-   12 Members:
-   - 1 Project Manager
-   - 4 Programmers
-   - 1 Designer
-   - 4 Artists
-   - 1 Sound Designer
-   - 1 Music Composer
+   - **Team Structure:**  
+      12 Members:
+      - 1 Project Manager
+      - 4 Programmers
+      - 1 Designer
+      - 4 Artists
+      - 1 Sound Designer
+      - 1 Music Composer
 
 
 **My Work:**
