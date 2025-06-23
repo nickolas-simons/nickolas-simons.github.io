@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Void Horizon"
-summary: "Programmer"
+summary: "Gameplay Programmer"
 date:   2024-01-01 15:39:40
 preview: /assets/405_preview.png
 ---

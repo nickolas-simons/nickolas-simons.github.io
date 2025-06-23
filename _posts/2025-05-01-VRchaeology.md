@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "VRchaeology"
-summary: "Gameplay Programmer / DevOps"
+summary: "Gameplay Programmer"
 date:   2024-05-01 15:39:40
 preview: /assets/VRch_preview.png
 ---

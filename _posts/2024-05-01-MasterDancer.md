@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Master Dancer"
-summary: "Programmer"
+summary: "Gameplay Programmer"
 date:   2024-05-01 15:39:40
 preview: /assets/md_preview.png
 ---
