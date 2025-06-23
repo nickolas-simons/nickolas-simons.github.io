@@ -9,21 +9,32 @@ preview: /assets/405_preview.png
 ![Title Image](/assets/405_TitleCard.png)
 
 **Overview:**
-A Sci-Fi card battler roguelike with mechanics influenced by **Slay the Spire**, **Magic the Gathering**, and **Yu-Gi-Oh**. Developed in a team of 5 for GSD405, this project continued after the semester ended, evolving into a deeper strategy game with expanded mechanics and a shift to a 2.5D perspective.
+A Sci-Fi card battler roguelike with mechanics influenced by Slay the Spire, Magic the Gathering, and Darkest Dungeon. Developed in a team of 6 for GSD405 : Intro To Game Development Process, this project continued after the semester ended, expanding the team and shifting to a strategy game with expanded mechanics and a shift to 3D perspective.
 
 **Development Details:**
-- **Technology:**  
-   Developed using C++ and Blueprint.
+- **Platform/Engine:**  
+   Developed on UE5 for PC.
 
-- **Team Structure:**  
-   Initially composed of a product manager, designer, 2 artists, and 2 programmers. After continuing development, the team transitioned to 3 artists, 2 designers, and 1 programmer.
+- **Team Structure:**
 
-- **Core Systems Implemented:**
-  - Effects-based card and item combat system inspired by GAS.
-  - Card genre and resource restriction system.
-  - A data-driven framework enabling card assets to be generated from design spreadsheets.
-  - Dungeon generation using designer created dungeon template sheme.
-  - Inventory and combat UI scripting.
+   - During Course
+      - 1 Project Manager
+      - 2 Programmers
+      - 2 Artists
+      - 1 Designers
+   
+   - After Course
+      - 1 Project Manager
+      - 1 Programmer
+      - 3 Artists
+      - 2 Designers
+
+- **My Work:**
+  - Implemented lightweight effect-based card and item combat system inspired by Epic's Gameplay Ability System.
+  - Developed card genre and resource restriction system.
+  - Created a data-driven tool enabling card assets to be generated from design spreadsheets.
+  - Created a data-driven tool for dungeon generation using designer-authored dungeon template shemes.
+  - Inventory and combat drag and drop UI scripting.
 
 ![Card System Design Loop](/assets/405gif1.gif)
 ![Card System Design Loop](/assets/405gif3.gif)
@@ -31,4 +42,6 @@ A Sci-Fi card battler roguelike with mechanics influenced by **Slay the Spire**,
 
 ![System Loop Image](/assets/405_Loop.png)
 ![Card System Design Loop](/assets/405_CardSystemDesignLoop3.png)
+
+
 
