@@ -15,10 +15,10 @@ Project operating through stu/dio-a student led work-for-hire game development s
 
 
 **Development Details:**
-   - **Platform and Engine:**  
+   -  **Platform and Engine:**  
       Unreal Engine 5 for PCVR platforms
 
-   - **Team Structure:**  
+   -  **Team Structure:**  
       12 Members:
       - 1 Project Manager
       - 4 Programmers
@@ -29,30 +29,30 @@ Project operating through stu/dio-a student led work-for-hire game development s
 
 
 **My Work:**
-   - **Code Review Integration**
+   -  **Code Review Integration**
       - Integrated Perforce's Helix Swarm code review tool into developer pipeline.
       - Migrated project version control from trunk-based development to stage-based development model.
 
-   - **Quest and Action Signifier System**
+   -  **Quest and Action Signifier System**
       - Manages task templates and simple level scripting logic for the player, allowing designers to easily add action prompts and tasks to streamline level scripting and user experience.
 
 ![Quest System TDD](/assets/QuestSystem.drawio.png)
 
 ![Quest/Action Signifier System](/assets/vr_quest_actionsignifiers.gif)
 
-   - **Dialogue Subtitle System**
+   -  **Dialogue Subtitle System**
       - Inspired by Half-Life Alyx, implemented system for tracking and managing dialogue subtitles to their sources within 3D space.
       - Developed for both Master Dancer and VRchaeology
 
 ![Dialogue Subtitle System](/assets/vr_subtitle.gif)
 
-   - **Digging and Stratigraphy Framework**
+   -  **Digging and Stratigraphy Framework**
       - System allowing user to scrap and dig into surfaces using tools within the level to perform tasks like excavation and stratigraphy.
       - Developed method for monitoring level progression through compute shader.
 
 ![Stratigraphy System TDD](/assets/StratigraphyTDD.drawio.png)
 
-   - **OpenXR Hand Tracking and Gesture Detection for Quest Link**
+   -  **OpenXR Hand Tracking and Gesture Detection for Quest Link**
       - Implemented reading and interpreting raw OpenXR hand tracking data through quest link for driving hand animations.
       - Developed system for snapshoting gestures for recognition so designers can easily integrate them into gameplay actions.
 
