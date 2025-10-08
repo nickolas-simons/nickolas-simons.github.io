@@ -1,6 +1,6 @@
 # Urban Theme (Portfolio) Quick Start
 
-## Sample
+## Sample/
 
 Here is a sample of what a portfolio might look like with this theme: [https://gamingportfolio.github.io/](https://gamingportfolio.github.io/). The repository for the sample page is [here](https://github.com/gamingportfolio/gamingportfolio.github.io).
 
