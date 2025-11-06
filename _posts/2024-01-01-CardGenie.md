@@ -29,14 +29,17 @@ A Sci-Fi card battler roguelike with mechanics influenced by Slay the Spire, Mag
          - 2 Designers
 
 - **My Work:**
-  - Implemented lightweight effect-based card and item combat system inspired by Epic's Gameplay Ability System.
-  - Developed card genre and resource restriction system.
+  - Developed core turn-based card combat.
+  - Implemented lightweight ability and effect system inspired by Epic's Gameplay Ability System.
+  - Developed card type and resource restriction system.
   - Created a data-driven tool enabling card assets to be generated from design spreadsheets.
   - Created a data-driven tool for dungeon generation using designer-authored dungeon template shemes.
   - Inventory and combat drag and drop UI scripting.
 
 ![Card System Design Loop](/assets/405gif1.gif)
+
 ![Card System Design Loop](/assets/405gif3.gif)
+
 ![Card System Design Loop](/assets/405gif2.gif)
 
 ![System Loop Image](/assets/405_Loop.png)

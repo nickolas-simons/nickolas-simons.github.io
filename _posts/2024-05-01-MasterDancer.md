@@ -35,6 +35,7 @@ Project operating through stu/dio-a student led work-for-hire game development s
       - Developed a data-driven system so designers can easily author new levels and constellations
          
 ![Starmaker Minigame System](/assets/md_gif4.gif)
+
 ![Starmaker TDD](/assets/StarmakerSystem.png) 
 
    -  **Musicmaker**
@@ -55,5 +56,6 @@ Project operating through stu/dio-a student led work-for-hire game development s
    - Interface for player as diagetic substitute for in-game menus.
 
 ![Stereoscope System](/assets/md_gif2.gif)
+
 ![Stereoscope TDD](/assets/StereoscopeSystem.png)
 
