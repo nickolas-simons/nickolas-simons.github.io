@@ -30,32 +30,25 @@ Project operating through stu/dio-a student led work-for-hire game development s
 **My Work:**
 
 **Movement Based Rhythm Games**
-   -  **Starmaker**
-      - A game focused on strong core movement, where the player hits stars into the sky in time with the music in order to make a constellation
-      - Developed a data-driven system so designers can easily author new levels and constellations
          
 ![Starmaker Minigame System](/assets/md_gif4.gif)
-
-![Starmaker TDD](/assets/StarmakerSystem.png) 
-
-   -  **Musicmaker**
-      - A game focused on gentle, precise music, where the player must gently activate notes according to music progression.
-      - Utilizes Quartz quantization system for music timing.
-      - Developed a data-driven system so designers can easily author new levels and constellations
+-  **Starmaker**
+   - A game focused on strong core movement, where the player hits stars into the sky in time with the music in order to make a constellation
+   - Developed a data-driven system so designers can easily author new levels and constellations
          
 ![Rhythm Minigame System](/assets/md_gif.gif)
+-  **Musicmaker**
+   - A game focused on gentle, precise music, where the player must gently activate notes according to music progression.
+   - Utilizes Quartz quantization system for music timing.
+   - Developed a data-driven system so designers can easily author new levels and constellations
 
-**Dialogue Subtitle System**
+![Dialogue Subtitle System](/assets/vr_subtitle.gif)
+- **Dialogue Subtitle System**
    - Inspired by Half-Life Alyx, implemented system for tracking and managing dialogue subtitles to their sources within 3D space.
    - Developed for both Master Dancer and VRchaeology
 
-![Dialogue Subtitle System](/assets/vr_subtitle.gif)
-
-**Stereoscope Based Level Streaming:**  
+![Stereoscope System](/assets/md_gif2.gif)
+- **Stereoscope Based Level Streaming:**  
    - Developed a stereoscope and card based system for easy level streaming and travel.
    - Interface for player as diagetic substitute for in-game menus.
-
-![Stereoscope System](/assets/md_gif2.gif)
-
-![Stereoscope TDD](/assets/StereoscopeSystem.png)
 

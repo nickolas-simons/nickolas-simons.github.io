@@ -28,32 +28,27 @@ Project operating through stu/dio-a student led work-for-hire game development s
 
 
 **My Work:**
-   -  **Code Review Integration**
-      - Integrated Perforce's Helix Swarm code review tool into developer pipeline.
-      - Migrated project version control from trunk-based development to stage-based development model.
-
-   -  **Quest and Action Signifier System**
-      - Manages task templates and simple level scripting logic for the player, allowing designers to easily add action prompts and tasks to streamline level scripting and user experience.
+-  **Code Review Integration**
+   - Integrated Perforce's Helix Swarm code review tool into developer pipeline.
+   - Migrated project version control from trunk-based development to stage-based development model.
 
 ![Quest System TDD](/assets/QuestSystem.drawio.png)
-
 ![Quest/Action Signifier System](/assets/vr_quest_actionsignifiers.gif)
-
-   -  **Dialogue Subtitle System**
-      - Inspired by Half-Life Alyx, implemented system for tracking and managing dialogue subtitles to their sources within 3D space.
-      - Developed for both Master Dancer and VRchaeology
+-  **Quest and Action Signifier System**
+   - Manages task templates and simple level scripting logic for the player, allowing designers to easily add action prompts and tasks to streamline level scripting and user experience.
 
 ![Dialogue Subtitle System](/assets/vr_subtitle.gif)
-
-   -  **Digging and Stratigraphy Framework**
-      - System allowing user to scrap and dig into surfaces using tools within the level to perform tasks like excavation and stratigraphy.
-      - Developed method for monitoring level progression through compute shader.
+-  **Dialogue Subtitle System**
+   - Inspired by Half-Life Alyx, implemented system for tracking and managing dialogue subtitles to their sources within 3D space.
+   - Developed for both Master Dancer and VRchaeology
 
 ![Stratigraphy System TDD](/assets/StratigraphyTDD.drawio.png)
-
-   -  **OpenXR Hand Tracking and Gesture Detection for Quest Link**
-      - Implemented reading and interpreting raw OpenXR hand tracking data through quest link for driving hand animations.
-      - Developed system for snapshoting gestures for recognition so designers can easily integrate them into gameplay actions.
+-  **Digging and Stratigraphy Framework**
+   - System allowing user to scrap and dig into surfaces using tools within the level to perform tasks like excavation and stratigraphy.
+   - Developed method for monitoring level progression through compute shader.
 
 ![Quest System TDD](/assets/vr_handtracking.gif)
+-  **OpenXR Hand Tracking and Gesture Detection for Quest Link**
+   - Implemented reading and interpreting raw OpenXR hand tracking data through quest link for driving hand animations.
+   - Developed system for snapshoting gestures for recognition so designers can easily integrate them into gameplay actions.
    
