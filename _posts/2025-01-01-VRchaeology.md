@@ -32,9 +32,7 @@ Project operating through stu/dio-a student led work-for-hire game development s
    - Migrated project to trunk-based development workflow
 
 ![Quest System TDD](/assets/QuestSystem.drawio.png)
-
-![Quest Editor](/assets/ExampleQuest.png)
-
+![Quest System TDD](/assets/ExampleQuest.png)
 ![Quest/Action Signifier System](/assets/vr_quest_actionsignifiers.gif)
 -  **Quest and Action Signifier System**
    - Manages task templates and simple level scripting logic for the player, allowing designers to easily add action prompts and tasks to streamline level scripting and user experience.
@@ -45,9 +43,7 @@ Project operating through stu/dio-a student led work-for-hire game development s
    - Migrated and extended from Master Dancer system.
 
 ![Stratigraphy System TDD](/assets/StratigraphyTDD.drawio.png)
-
 ![Digging](/assets/VRchVideo_1.gif)
-
 ![Stratigraphy](/assets/VRchVideo_2.gif)
 -  **Digging and Stratigraphy Framework**
    - System allowing user to scrap and dig into surfaces using tools within the level to perform tasks like excavation and layer stratigraphy analysis.
