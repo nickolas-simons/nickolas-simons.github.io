@@ -2,7 +2,7 @@
 layout: post
 title:  "Multiplayer Action Game"
 summary: "Solo Developer"
-date:   2022-09-01 15:39:40
+date:   2025-01-01 00:00:03
 preview: /assets/Untitled_preview.png
 ---
 
@@ -11,15 +11,11 @@ preview: /assets/Untitled_preview.png
 **Overview:**  
 A solo personal project designed to deepen familiarity with Epic's Gameplay Ability System, UE5's new animation tools/framework, and the procedural content generation framework. This is intended to eventually be a multiplayer roguelike, but scope is large enough I plan to only focus on multiplayer features for now.
 
-**Development Details:**
-   - **Platform/Engine:**  
-   Developed on UE5 for PC
+**Platform/Engine:** UE5 for PC
 
-   - **Time:**   
-   Nov 2025 - Present
+**Time:** Nov 2025 - Present
 
-   - **Team:**   
-   Solo
+**Team:** Solo
 
 **EXISTING FEATURES:**
 - **PCG Tile Management:**  

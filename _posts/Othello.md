@@ -2,7 +2,7 @@
 layout: post
 title:  "Othello Game"
 summary: "Solo Developer"
-date:   2022-04-01 15:39:40
+date:   2025-01-01 00:00:01
 preview: /assets/othello_preview.png
 ---
 
@@ -11,8 +11,7 @@ preview: /assets/othello_preview.png
 **Overview:**
 A final project developed for CS340: Programming Patterns and Paradigms, this is an ASCII-based Othello game created in Haskell. It features a computer-controlled opponent and supports variable board sizes.
 
-**Time:** 
-April 2022
+**Time:** April 2022
 
 **Key Features:**
 - **Haskell Development:**  

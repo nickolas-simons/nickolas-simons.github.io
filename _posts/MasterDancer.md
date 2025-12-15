@@ -2,7 +2,7 @@
 layout: post
 title:  "Master Dancer"
 summary: "Programmer"
-date:   2024-05-01 15:39:40
+date:   2025-01-01 00:00:06
 preview: /assets/md_preview.png
 ---
 
@@ -15,17 +15,16 @@ Project operating through stu/dio-a student led work-for-hire game development s
 
 ![Rhythm Minigame System](/assets/md_gif3.gif)
 
-**Development Details:**
-   - **Engine/Platform:**  
+**Engine/Platform:**  
    Unreal Engine 5 for PCVR
 
-   - **Team Structure:** 
-      - 1 Project Manager
-      - 1 Programmer
-      - 1 Designer
-      - 2 Artists
-      - 1 Sound Designer
-      - 1 Music Composer
+**Team Structure:**
+   - 1 Project Manager
+   - 1 Programmer
+   - 1 Designer
+   - 2 Artists
+   - 1 Sound Designer
+   - 1 Music Composer
 
 **MY WORK:**
 
@@ -37,14 +36,14 @@ Project operating through stu/dio-a student led work-for-hire game development s
    - Developed data-driven tooling for designers to author new levels and constellations
          
 ![Rhythm Minigame System](/assets/md_gif.gif)
-   -  **Music Roundabout**
-      - A game focused on gentle, precise music, where the player must gently activate notes according to music progression.
-      - Utilizes Quartz and Meta Sounds for quantization of music timing.
+-  **Music Roundabout**
+   - A game focused on gentle, precise music, where the player must gently activate notes according to music progression.
+   - Utilizes Quartz and Meta Sounds for quantization of music timing.
       - Developed a data-driven tooling for level authoring.
 
-   - **Final Dance**
-      - A dance visualization game where the player creates a sculpture using the movement principles of the first two games
-      - Uses Niagra to draw ribbons and particles along the arcs created by the player. Color and particle type will depend on player speed, consistency, and movement type
+- **Final Dance**
+   - A dance visualization game where the player creates a sculpture using the movement principles of the first two games
+   - Uses Niagra to draw ribbons and particles along the arcs created by the player. Color and particle type will depend on player speed, consistency, and movement type
          
 
 ![Dialogue Subtitle System](/assets/vr_subtitle.gif)  

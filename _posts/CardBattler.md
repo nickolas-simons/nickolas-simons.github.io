@@ -2,7 +2,7 @@
 layout: post
 title:  "Card Battler"
 summary: "Programmer"
-date:   2024-01-01 15:39:40
+date:   2025-01-01 00:00:04
 preview: /assets/405_preview.png
 ---
 
@@ -11,26 +11,17 @@ preview: /assets/405_preview.png
 **Overview:**  
 A Sci-Fi card battler roguelike with mechanics influenced by Slay the Spire, Magic the Gathering, and Darkest Dungeon. Developed in a team of 6 for GSD405 : Intro To Game Development Process
 
+**Platform/Engine:**  UE5 for PC
 
-**Development Details:**
-   - **Platform/Engine:**  
-   Developed on UE5 for PC
+**Time:**    Spring Semester 2024
 
-   - **Time:**    
-      Spring Semester 2024
+**Team Structure:**
+   - 1 Project Manager
+   - 2 Programmers
+   - 2 Artists
+   - 1 Designers
 
-   - **Team Structure:**
-      - During Course
-         - 1 Project Manager
-         - 2 Programmers
-         - 2 Artists
-         - 1 Designers
-      - After Course
-         - 1 Project Manager
-         - 1 Programmer
-         - 3 Artists
-         - 2 Designers
-- **My Work:**
+**My Work:**
   - Developed core turn-based card combat.
   - Implemented lightweight ability and effect system inspired by Epic's Gameplay Ability System.
   - Developed card type and resource restriction systems.

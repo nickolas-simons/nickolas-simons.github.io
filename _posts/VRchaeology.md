@@ -2,7 +2,7 @@
 layout: post
 title:  "VRchaeology"
 summary: "Programmer"
-date:   2024-05-01 15:39:40
+date:   2025-01-01 00:00:05
 preview: /assets/VRch_preview.png
 ---
 
@@ -12,7 +12,6 @@ preview: /assets/VRch_preview.png
 VRchaeology revolutionizes the study of archaeology by bringing archaeological field techniques into the classroom through virtual reality. This innovative approach allows students to delve into the world of archaeology and unearth the past right from their desks. It serves as a pioneering example of how VR can transform the education of field sciences, making hands-on learning accessible to everyone.
 
 Project operating through stu/dio-a student led work-for-hire game development studio at the University of Illinois. Project sponsored by Dr. Laura Shackelford
-
 
 **Platform and Engine:**  
    Unreal Engine 5 for PCVR platforms
